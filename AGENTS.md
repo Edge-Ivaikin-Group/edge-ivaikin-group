@@ -40,7 +40,7 @@ Non-negotiable: **no secrets, no NDA material, no private numbers that require e
 The site must be:
 - **Factual**: claims should be verifiable or framed as capabilities, not promises.
 - **Audit-safe**: “Before → Shipped → Outcome” with metrics only if real.
-- **Service-first**: wording pitches services, delivery discipline, and competencies — no M&A / "for sale" language on public pages.
+- **Service-first**: wording pitches services, delivery discipline, and competencies — no M&A / "for sale" language on public pages. A neutral investor touchpoint is allowed ("investor brief available on request", growth-capital framing) — never valuation, dataroom, "assignable/transferable" or "for sale" claims; investor materials live off-site and go out addressed, under NDA.
 
 Never publish:
 - “Guaranteed results”, “we will 10x”, “best in the world”
